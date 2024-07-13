@@ -1,4 +1,4 @@
-![Template rluipdev]()
+![Template rluipdev](rluispdev(2).png)
  
  
  # 👨‍💻 PROJETOS CATEGORIZADOS IA
